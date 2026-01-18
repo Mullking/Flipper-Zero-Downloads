@@ -8,19 +8,19 @@ If an app does not work properly, report it as an issue so we can fix it accordi
 Applications go right into the `apps` folder in your SD card. <br>
 These apps can allow you to do things that you cound not do before on your Flipper Zero.
 ## List
-Bluetooth- UberGuidoZ:Flipper <br>
-Infrared- UberGuidoZ:Flipper <br>
-Main- UberGuidoZ:Flipper <br>
-Media- UberGuidoZ:Flipper <br>
-NFC- UberGuidoZ:Flipper <br>
-RFID- UberGuidoZ:Flipper <br>
-Scripts- UberGuidoZ:Flipper <br>
-Settings- UberGuidoZ:Flipper <br>
-Sub-Ghz.- UberGuidoZ:Flipper <br>
-Tools- UberGuidoZ:Flipper <br>
-USB- UberGuidoZ:Flipper <br>
-iButton- UberGuidoZ:Flipper <br>
-Other .ps files- IamJackoboy <br>
+- Bluetooth- UberGuidoZ:Flipper <br>
+- Infrared- UberGuidoZ:Flipper <br>
+- Main- UberGuidoZ:Flipper <br>
+- Media- UberGuidoZ:Flipper <br>
+- NFC- UberGuidoZ:Flipper <br>
+- RFID- UberGuidoZ:Flipper <br>
+- Scripts- UberGuidoZ:Flipper <br>
+- Settings- UberGuidoZ:Flipper <br>
+- Sub-Ghz.- UberGuidoZ:Flipper <br>
+- Tools- UberGuidoZ:Flipper <br>
+- USB- UberGuidoZ:Flipper <br>
+- iButton- UberGuidoZ:Flipper <br>
+- Other .ps files- IamJackoboy <br>
 ## Installation
 1. Navigate to QFlipper
 2. Go to your SD card
