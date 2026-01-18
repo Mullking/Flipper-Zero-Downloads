@@ -38,7 +38,7 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 |[Picopass](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/picopass)| Picopass files for your Flipper Zero.|
 |[SubPlaylist](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/subplaylist)| Pre-made Sub Ghz. playlists for your Flipper Zero.|
 |[UniRF](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/unirf)| UniRF files for Flipper Zero|
-|[3D Prints](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/3d-print-files)|3D Print files for your flipper zero.|
+|[3D Prints](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/3d%20print%20files)|3D Print files for your flipper zero.|
 
   
 [More useful downloads](https://flipper.net/pages/downloads) • [Documentation](https://docs.flipper.net) • [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware) • [Repository Documentation](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Documentation)
