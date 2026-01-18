@@ -8,6 +8,7 @@ For extra print files go [here](https://www.yeggi.com/q/flipper+zero/2/)
 - Flipper Zero body
 - Wifi Devboard case
 - Flipper zero shell
+- CC1101 case
 ## Requirements
 - 3D printer (Most brands work)
 
