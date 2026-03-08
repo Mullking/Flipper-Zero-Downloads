@@ -34,7 +34,7 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 |[BadUSB](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/BadUSB)|BadUSB payloads and scripts for Flipper Zero.|Added more payloads|
 |[Scripts](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Scripts)|Pre-made scripts and payloads for Flipper Zero.|
 |[RFID](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/RFID)|Pre-made RFID tags and files for Flipper Zero.|
-|[Graphics](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Graphics)| Pre-made animations, icons, assets and graphics for your Flipper zero.|
+|[Graphics](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Graphics)| Pre-made animations, icons, assets, and graphics for your Flipper Zero.|
 |[Picopass](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/picopass)| Picopass files for your Flipper Zero.|
 |[SubPlaylist](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/subplaylist)| Pre-made Sub Ghz. playlists for your Flipper Zero.|
 |[UniRF](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/unirf)| UniRF files for Flipper Zero|
@@ -44,7 +44,7 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 [More useful downloads](https://flipper.net/pages/downloads) • [Documentation](https://docs.flipper.net) • [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware) • [Repository Documentation](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Documentation)
 
 >[!TIP]
-> These links will take you to other important resources too.
+> These links will take you to other important resources, too.
 
 
 ---
@@ -57,13 +57,13 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 >
 > This project is developed independently and is not affiliated with Flipper Devices. <br>
 >
-> DO NOT test on other peoples belongings. Only use YOUR hardware, doing otherwise is ILLEGAL! <br>
+> DO NOT test on other people's belongings. Only use YOUR hardware; doing otherwise is ILLEGAL! <br>
 > We are not responsible for any damage caused by these files. <br>
-> Users are at fault of these rules. <br>
+> Users are at fault for these rules. <br>
 > Check local laws before using these files. <br>
 
 ## About
-This repository was created so that you dont have to find Flipper Zero files yourself. This repository has all of the resources for you if you are new to Flipper Zero or you just want to get more files. Either way, you are welcome here!
+This repository was created so that you don't have to find Flipper Zero files yourself. This repository has all of the resources for you if you are new to Flipper Zero or if you just want to get more files. Either way, you are welcome here!
 ## Installation
 
 ### Method 1: Copy Files to SD Card
@@ -71,7 +71,7 @@ This repository was created so that you dont have to find Flipper Zero files you
 Directly copying the files to the Flipper's SD card is the fastest and safest method, but you have to [dismount the SD card](https://docs.flipperzero.one/basics/sd-card#g4-removing-the-sd-card) and plug it into the computer directly. <br>
 
 1. Download and extract or [Git-clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repo to your computer.
-2. Open the downloaded / cloned repository in a File Explorer.
+2. Open the downloaded/cloned repository in a File Explorer.
 3. [Dismount the SD card](https://docs.flipperzero.one/basics/sd-card#g4-removing-the-sd-card) from the Flipper and mount it to your computer
 4. Copy the desired files from the repo to the `(file type)` folder on your SD Card
 5. Dismount the SD card from your computer and mount it to your Flipper
@@ -85,17 +85,17 @@ Directly copying the files to the Flipper's SD card is the fastest and safest me
 1. [Git-clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or Download and extract this repository to your computer.
 2. Connect your Flipper to your PC using a USB-C cable.
 3. Open [QFlipper](https://flipperzero.one/update)
-4. Verify that your Flipper shows "Connected"
+4. Verify that your Flipper shows "Connected."
 5. Ensure your Flipper is fully up-to-date:
    1. Look for the green "Update" button near the middle-right of the application.
-   2. Press "Update" and allow the Flipper to complete the Update process and then reboot before continuing.
+   2. Press "Update" and allow the Flipper to complete the Update process, and then reboot before continuing.
 6. Open the File Manager by selecting the "File Manager" icon (piece of paper) on the top left of the QFlipper application.
 7. Select `SD Card`, then navigate to the `(file type)` folder by double-clicking its icon.
 8. Drag the downloaded files you want on your Flipper from the File Explorer into the QFlipper File Manager.
 
 ### Method 3: Copy Files using the [Flipper Mobile App](https://play.google.com/store/apps/details?id=com.flipperdevices.app)
 
-1. Download/copy the desired files from the database to your smartphone, e.g. to the Download folder. Be sure the extension is matching the type of file you are downloading.
+1. Download/copy the desired files from the database to your smartphone, e.g., to the Download folder. Be sure the extension matches the type of file you are downloading.
 2. Open the Flipper Mobile App and go to Connected > Options > activate Experimental Options
 3. Open the now appearing "File Manager" > ext > (file type) > upload symbol > Choose file from your Download folder
 4. The file can be found on your Flipper Zero > (file type) > Saved
@@ -104,7 +104,7 @@ Directly copying the files to the Flipper's SD card is the fastest and safest me
 >If the file you downloaded did not work, please report it as a bug so we can fix the file or remove it.
 
 ## License 
-GNU General Puclic Licensing 
+GNU General Public License 
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> <br>
  Everyone is permitted to copy and distribute verbatim copies <br>
@@ -116,11 +116,11 @@ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> <br>
 
 ## Notes
 This repo is constantly being worked on. <br> 
-If you have issues or need assistance please communicate in our discussions and report issues and bugs.<br> 
-You are the ones that keep this comunity going, thank you!
+If you have issues or need assistance, please communicate in our discussions and report issues and bugs.<br> 
+You are the ones who keep this community going, thank you!
  
 ## Credits
-These are the creators, or scavengers, that own or curate the provided files.
+These are the creators, or scavengers, who own or curate the provided files.
 
 |Author| Files | Author| Files|
 |-|-|-|-|
@@ -138,13 +138,13 @@ These are the creators, or scavengers, that own or curate the provided files.
 |- @I-Am-Jakoby|BadUSB payloads and scripts|
 |- @kbembedded|GPIO files|
 |- [Flipper Zero NFC Trolls](https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls/tree/main)|NFC files|
-### Contributers
+### Contributors
 - Files gathered by @SYOP200 <br>
 <div>
    
 </div>
 <img width="105" height="78" alt="page_downloads_graphics_logo_orange" src="https://github.com/user-attachments/assets/b75fd170-39f9-4d21-a1ed-f93c4edd21e0" />
 
-**If you have suggestions, files to contribute, or ideas for organizing it better, I’d love feedback.** <br>
+**If you have suggestions, files to contribute, or ideas for organizing this better, I’d love feedback.** <br>
 **And if it helps you out, a ⭐ on the repo helps others find it too.**
 ---
