@@ -16,3 +16,5 @@ For extra print files go [here](https://www.yeggi.com/q/flipper+zero/2/)
 1. Download the desired files
 2. Open the .stl file in your print slicer
 3. Upload the file to your printer
+
+Personally, I am new to 3D Printing. If you notice something wrong or want to add something, create a PR!
