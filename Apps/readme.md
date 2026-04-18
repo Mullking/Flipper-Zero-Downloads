@@ -4,6 +4,8 @@
 ## Aplications
 Plugins from many different developers. <br>
 If an app does not work properly, report it as an issue so we can fix it accordingly.
+## Installing Applications
+You can install applications by finding them here on github or browse for them at [flipper.net](https://flipper.net)
 ## How they work
 Applications go right into the `apps` folder in your SD card. <br>
 These apps can allow you to do things that you cound not do before on your Flipper Zero.
