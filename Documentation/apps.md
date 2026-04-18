@@ -126,7 +126,7 @@ App(
 ```
 
 ### hello_world.c — the code
-
+ 
 A minimal app that displays text and exits when you press the back button:
 
 ```c
