@@ -10,7 +10,10 @@
 
 ## Flipper Zero Downloads
 ### Contributing
-All user are allowed to contribute to the overall files of this repository. User can fork this repository and update files as they wish. When done, the user can submit a pull request, requesting that their edits are added to the offical repository.
+All users are allowed to contribute to the overall files of this repository. The user can fork this repository and update files as they wish. When done, the user can submit a pull request to add their edits to the official repository.
+
+### Contributing helps the community
+When you contribute, you are letting me and others know that something does not work right or there is something you want to be added. Contributing is encouraged, but up to you, the user. If you find something that you use on your Flipper that is not in the repo, then create a PR! 
 
 ### Contributing Guidelines 
-When submitting an issue or pull request, we expect that you contribute politely. If submitting an issue or PR, use the templates already made, unless you need to create a issue from scratch.
+When submitting an issue or pull request, we expect that you contribute politely. If submitting an issue or PR, use the templates already made, unless you need to create an issue from scratch.
