@@ -130,7 +130,7 @@ These are the creators, or scavengers, who own or curate the provided files.
 |- Xtreme Firmware|Firmware download|- [FlipperZero-Firmware-UniRFRemix](https://github.com/ESurge/flipperzero-firmware-unirfremix)|UniRF files and information|   
 |- [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)|IR files|- JKCTech|Scripts|
 |- [BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)|BadUSB payloads|- @SYOP200| IR remote files|
-|- [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)|RFID files|
+|- [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)|RFID files|- [flipper-zero-files](https://github.com/ADolbyB/flipper-zero-files)|Games|
 |- @UberGuidoZ|Various files|
 |- [Flipper Zero Scripts](https://github.com/jkctech/Flipper-Zero-Scripts)|Scripts and payloads|
 |- [Flipper Docs](https://docs.flipper.net)|Information|
