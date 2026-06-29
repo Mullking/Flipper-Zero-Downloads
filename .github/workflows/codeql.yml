@@ -44,7 +44,7 @@ jobs:
       matrix:
         include:
         - language: c-cpp
-          build-mode: autobuild
+          build-mode: manual
         - language: javascript-typescript
           build-mode: none
         - language: python
@@ -86,7 +86,7 @@ jobs:
     # to build your code.
     # ℹ️ Command-line programs to run using the OS shell.
     # 📚 See https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsrun
-    - name: Run manual build steps
+    - name: Run manual build steps if: matrix.build-mode == 'manual' shell: bash run: | set -euo pipefail sudo apt-get update sudo apt-get install -y build-essential cmake ninja-build mkdir -p build cd build cmake -G Ninja .. # or your preferred generator/options ninja -v # or: make -j$(nproc)
       if: matrix.build-mode == 'manual'
       shell: bash
       run: |
