@@ -44,7 +44,7 @@ jobs:
       matrix:
         include:
         - language: c-ccp
-          build-mode: manual
+          build-mode: none
         - language: javascript-typescript
           build-mode: none
         - language: python
