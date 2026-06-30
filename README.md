@@ -127,6 +127,9 @@ You are the ones who keep this community going, thank you!
 ## Credits
 These are the creators, or scavengers, who own or curate the provided files.
 
+**These are some other resources I used and are very helpful**
+[Resources](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/Resources)
+
 |Author| Files | Author| Files|
 |-|-|-|-|
 |- Momentum Firmware|Firmware download|- Flipper-zero-files| GPIO files|
