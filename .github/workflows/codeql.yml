@@ -43,7 +43,7 @@ jobs:
       fail-fast: false
       matrix:
         include:
-        - language: c-cpp
+        - language: c-ccp
           build-mode: manual
         - language: javascript-typescript
           build-mode: none
@@ -86,17 +86,11 @@ jobs:
     # to build your code.
     # ℹ️ Command-line programs to run using the OS shell.
     # 📚 See https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsrun
-    - name: Run manual build steps if: matrix.build-mode == 'manual' shell: bash run: | set -euo pipefail sudo apt-get update sudo apt-get install -y build-essential cmake ninja-build mkdir -p build cd build cmake -G Ninja .. # or your preferred generator/options ninja -v # or: make -j$(nproc)
+    - name: Run manual build steps
       if: matrix.build-mode == 'manual'
       shell: bash
       run: |
-        echo 'If you are using a "manual" build mode for one or more of the' \
-          'languages you are analyzing, replace this with the commands to build' \
-          'your code, for example:'
-        echo '  make bootstrap'
-        echo '  make release'
-        exit 1
-
+        set -euo pipefail sudo apt-get update sudo apt-get install -y build-essential cmake ninja-build mkdir -p build cd build cmake -G Ninja .. 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v4
       with:
